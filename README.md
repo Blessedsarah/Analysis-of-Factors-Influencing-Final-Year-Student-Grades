@@ -1,11 +1,22 @@
-# Analysis of Final Year Student Grades
+# Analysis of Factors Influencing Final Year Student Grades
 
 ![Screenshot 2024-11-20 211810](https://github.com/user-attachments/assets/ab042004-c478-436c-a49e-deb4bc23103f)
 
 ## Table of Content
-(Project Overview)[Project Overview]
+- [Project Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#project-overview)
+- [Tools Used](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#tools-used)
+- [Steps I took](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#steps-i-took)
+  - [Data Cleaning and Preparation](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#data-cleaning-and-preparation)
+  - [SQL Queries and Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#sql-queries-and-analysis)
+  - [Power BI Analysis and Visualization](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#power-bi-analysis-and-visualization)
+- [Key Insights](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#key-insights)
+  - [Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#overview)
+  - [Student Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#student-analysis)
+  - [Teachers Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#teachers-analysis)
+  - [Student Dashboard](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#student-dashboard)
+- [Recommendations](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#recommendation)
 ## Project Overview
-This project focuses on analyzing the factors influencing final-year student grades. The primary objective is to gain insights into student performance across various departments and courses, including calculating CGPAs, identifying top performers, and understanding enrollment patterns. The project also addresses key statistical analyses, such as the mean, median and mode of CGPAs, and aims to identify the courses with the highest failure rates.
+This project focuses on analyzing the factors influencing final-year student grades. The primary objective is to gain insights into student performance across various departments and courses, including calculating CGPAs, identifying top performers, and understanding enrollment patterns. The project also addresses key statistical analyses, such as the mean, median and mode of CGPAs, and aims to identify the courses with the highest failure rates. 
 
 ## Tools Used
 - Excel (Power Query) -  For data cleaning and table merging.
@@ -30,7 +41,7 @@ During the data cleaning phase, several steps were taken to ensure data quality 
   - Teachers Profile Table: Information about course instructors.
 
 ## SQL Queries and Analysis
-View Code Here
+View Code [Here](https://github.com/Blessedsarah/Analysis-of-Final-Year-Student-Grades/blob/main/SQL%20Script.sql)
 SQL was utilized to query the cleaned and prepared dataset to extract key insights. The following analyses were performed: 
 
 ### Basic Dataset Statistics
@@ -62,6 +73,8 @@ After completing the SQL-based analysis, the cleaned and prepared data was impor
   - ***Student Age***: To analyze age distributions and trends.
   - ***Lecturers Working Years***: To evaluate lecturer experience and its correlation with performance.
   - ***Grade Category***: To categorize grade class (i.e first class honours, etc)
+![image](https://github.com/user-attachments/assets/81efb612-872a-4081-9245-39de13b9f972)
+
 ### DAX Measures
 DAX measures were used to perform advanced calculations and improve the analytical capabilities of the dashboard. 
 ![image](https://github.com/user-attachments/assets/0f349c42-eb90-46eb-8fcc-8be9dc6a5797)
