@@ -3,18 +3,18 @@
 ![Screenshot 2024-11-20 211810](https://github.com/user-attachments/assets/ab042004-c478-436c-a49e-deb4bc23103f)
 
 ## Table of Content
-- [Project Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#project-overview)
-- [Tools Used](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#tools-used)
-- [Steps I took](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#steps-i-took)
-  - [Data Cleaning and Preparation](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#data-cleaning-and-preparation)
-  - [SQL Queries and Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#sql-queries-and-analysis)
-  - [Power BI Analysis and Visualization](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#power-bi-analysis-and-visualization)
-- [Key Insights](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#key-insights)
-  - [Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#overview)
-  - [Student Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#student-analysis)
-  - [Teachers Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#teachers-analysis)
-  - [Student Dashboard](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#student-dashboard)
-- [Recommendations](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades/edit/main/README.md#recommendation)
+- [Project Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#project-overview)
+- [Tools Used](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#tools-used)
+- [Steps I took](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#steps-i-took)
+  - [Data Cleaning and Preparation](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#data-cleaning-and-preparation)
+  - [SQL Queries and Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#sql-queries-and-analysis)
+  - [Power BI Analysis and Visualization](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#power-bi-analysis-and-visualization)
+- [Key Insights](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#key-insights)
+  - [Overview](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#overview)
+  - [Student Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#student-analysis)
+  - [Teachers Analysis](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#teachers-analysis)
+  - [Student Dashboard](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#student-dashboard)
+- [Recommendations](https://github.com/Blessedsarah/Analysis-of-Factors-Influencing-Final-Year-Student-Grades#recommendation)
 ## Project Overview
 This project focuses on analyzing the factors influencing final-year student grades. The primary objective is to gain insights into student performance across various departments and courses, including calculating CGPAs, identifying top performers, and understanding enrollment patterns. The project also addresses key statistical analyses, such as the mean, median and mode of CGPAs, and aims to identify the courses with the highest failure rates. 
 
